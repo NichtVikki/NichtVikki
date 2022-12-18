@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vikki</h1>
 <h3 align="center">A passionate fullstack developer from Serbia</h3>
 
-- 🔭 I’m currently working on **VikkiVuk ID, VikkiVuk Authenticator, Pure Chaos (MC MOD)**
+- 🔭 I’m currently working on **Wulfco ID, Aternos on Discord, Alnisium (HOI4 Mod)**
 
-- 🌱 I’m currently learning **React, Flutter, Swift, NextJS, ...**
+- 🌱 I’m currently learning **React, Flutter, Python, ...**
 
-- 👨‍💻 All of my projects are available at [https://vikkivuk.xyz](https://vikkivuk.xyz)
+- 👨‍💻 All of my projects are available at [https://vikkivuk.com](https://vikkivuk.com)
 
 - 💬 Ask me about **nodejs, js, html, java, express, heroku, mongo, ...**
 
-- 📫 How to reach me **hey@vikkivuk.xyz**
+- 📫 How to reach me **hello@vikkivuk.com**
 
-- 📄 Know about my experiences [https://vikkivuk.xyz](https://vikkivuk.xyz)
+- 📄 Know about my experiences [https://vikkivuk.com](https://vikkivuk.com)
 
 - ⚡ Fun fact **I have ADHD. I am an Omnivert, and I think, very fun to talk to.**
 
