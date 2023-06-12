@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikki</h1>
 <h3 align="center">A passionate fullstack developer from Serbia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikkivuk" alt="vikkivuk" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vikkivuk" target="blank"><img src="https://img.shields.io/twitter/follow/vikkivuk?logo=twitter&style=for-the-badge" alt="vikkivuk" /></a> </p>
 
 - 🔭 I’m currently working on **Wulfco ID, WLauncher, Wulfco Authenticator...**
@@ -29,7 +27,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nisamvikki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nisamvikki" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikkivuk&show_icons=true&locale=en&layout=compact" alt="vikkivuk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikkivuk&show_icons=true&locale=en" alt="vikkivuk" /></p>
